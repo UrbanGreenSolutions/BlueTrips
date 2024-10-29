@@ -228,7 +228,7 @@ Este dashboard contiene información de vehículos eléctricos como: marca, mode
           <img width="110" src="https://raw.githubusercontent.com/UrbanGreenSolutions/BlueTrips/main/Assets/IMG-Perfil/01.png"/>
         </a>
         <a href="https://github.com/JPjuanaponte" target="_blank" rel="author">
-          <h4 style="margin-top: 1rem;">Juan Aponte </br><small>Cloud Arquitect / PO</small></h4>
+          <h4 style="margin-top: 1rem;">Juan Aponte </br><small>Cloud Arquitect / Product Manager</small></h4>
         </a>
         <div style='display: flex; flex-direction: column'>
         <a href="https://github.com/JPjuanaponte" target="_blank">
